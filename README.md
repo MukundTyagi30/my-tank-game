@@ -55,7 +55,7 @@ Dive into the world of tank warfare and experience the thrill of strategic comba
 ## Screenshots:
 
 ### Main Menu
-![Main Menu](mainmenu.png)
+![Main Menu]("tank Screenshot"/mainmenu.png)
 
 ### How To Play
 ![How To Play](tank Screenshot/controls.png)
