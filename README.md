@@ -53,3 +53,18 @@ Dive into the world of tank warfare and experience the thrill of strategic comba
 > This game is built using the Processing library for graphics and animations.
 > Please refer to the [Processing documentation](https://processing.org/reference/) for more details.
 
+## Screenshots:
+
+### Main Menu
+![Main Menu](tank Screenshot/mainmenu.png)
+
+### How To Play
+![How To Play](tank Screenshot/controls.png)
+
+### In-Game Action
+![In-Game Action](tank Screenshot/Level1.png)
+![In-Game Action](tank Screenshot/Level2.png)
+![In-Game Action](tank Screenshot/Level3.png)
+
+### Level Complete
+![Level Complete](tank Screenshot/FinalScore.png)
