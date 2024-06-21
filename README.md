@@ -55,7 +55,7 @@ Dive into the world of tank warfare and experience the thrill of strategic comba
 ## Screenshots:
 
 ### Main Menu
-![Main Menu]("tank Screenshot/mainmenu.png")
+![Main Menu](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/mainmenu.png)
 
 ### How To Play
 ![How To Play](tank Screenshot/controls.png)
