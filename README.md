@@ -58,12 +58,12 @@ Dive into the world of tank warfare and experience the thrill of strategic comba
 ![Main Menu](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/mainmenu.png)
 
 ### How To Play
-![How To Play](tank Screenshot/controls.png)
+![How To Play](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/controls.png)
 
 ### In-Game Action
 ![In-Game Action](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/Level1.png) 
-![In-Game Action](tank Screenshot/Level2.png) 
-![In-Game Action](tank Screenshot/Level3.png)
+![In-Game Action](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/Level2.png)
+![In-Game Action](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/Level3.png)
 
 ### Level Complete
-![Level Complete](tank Screenshot/FinalScore.png)
+![Level Complete](https://raw.githubusercontent.com/MukundTyagi30/my-tank-game/main/tank%20Screenshot/FinalScore.png)
